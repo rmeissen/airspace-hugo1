@@ -23,6 +23,7 @@ about:
     fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
     culpa qui officia deserunt mollit anim id.
   image: images/wrapper-img.png
+  funfacts: []
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
