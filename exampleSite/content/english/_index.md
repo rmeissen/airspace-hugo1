@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/pexels-photo-1072824.jpeg
   bg_overlay: true
   title: A Software <br/> & Web Development Agency
   content: We love the web and the work we do. We work closely with our clients to
